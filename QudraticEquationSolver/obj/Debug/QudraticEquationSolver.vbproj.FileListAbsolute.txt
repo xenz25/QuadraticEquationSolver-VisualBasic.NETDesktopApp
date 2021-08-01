@@ -1,0 +1,13 @@
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\bin\Debug\QudraticEquationSolver.exe.config
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\bin\Debug\QudraticEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\bin\Debug\QudraticEquationSolver.pdb
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\bin\Debug\QudraticEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.vbprojAssemblyReference.cache
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.Form1.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.Resources.resources
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.vbproj.GenerateResource.cache
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.exe
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.xml
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.pdb
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.vbproj.ResolveComReference.cache
+C:\Users\Jolo Catacutan\Documents\PRGRAMMING FILES\QUADRATIC EQUATION SOLVER\QudraticEquationSolver\obj\Debug\QudraticEquationSolver.History.resources
